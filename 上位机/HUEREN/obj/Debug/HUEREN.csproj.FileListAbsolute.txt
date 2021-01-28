@@ -1,0 +1,11 @@
+C:\Users\renhu\Desktop\上位机\HUEREN\bin\Debug\HUEREN.exe.config
+C:\Users\renhu\Desktop\上位机\HUEREN\bin\Debug\HUEREN.exe
+C:\Users\renhu\Desktop\上位机\HUEREN\bin\Debug\HUEREN.pdb
+C:\Users\renhu\Desktop\上位机\HUEREN\obj\Debug\HUEREN.Form1.resources
+C:\Users\renhu\Desktop\上位机\HUEREN\obj\Debug\HUEREN.Properties.Resources.resources
+C:\Users\renhu\Desktop\上位机\HUEREN\obj\Debug\HUEREN.csproj.GenerateResource.cache
+C:\Users\renhu\Desktop\上位机\HUEREN\obj\Debug\HUEREN.csproj.CoreCompileInputs.cache
+C:\Users\renhu\Desktop\上位机\HUEREN\obj\Debug\HUEREN.exe
+C:\Users\renhu\Desktop\上位机\HUEREN\obj\Debug\HUEREN.pdb
+C:\Users\renhu\Desktop\上位机\HUEREN\obj\Debug\HUEREN.csprojAssemblyReference.cache
+C:\Users\renhu\Desktop\上位机\HUEREN\obj\Debug\HUEREN.Form2.resources
